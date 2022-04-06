@@ -230,4 +230,29 @@ vendor/bin/codecept run unit --coverage --coverage-html --coverage-xml
 vendor/bin/codecept run functional,unit --coverage --coverage-html --coverage-xml
 ```
 
-You can see code coverage output under the `tests/_output` directory.
+You can see code coverage ![25](https://user-images.githubusercontent.com/55030527/161861234-3e4b7416-0afb-41a4-9b44-a01401241613.png)
+![1](https://user-images.githubusercontent.com/55030527/161861237-6bbe3804-7161-47b0-9e0b-be7e9558dc68.png)
+![2](https://user-images.githubusercontent.com/55030527/161861239-ad463a8a-f953-4cbe-a371-b481632bd6ff.png)
+![3](https://user-images.githubusercontent.com/55030527/161861240-a6ab73fe-556e-42ab-82a4-6a36199fbaba.png)
+![4](https://user-images.githubusercontent.com/55030527/161861241-948fe1f6-b062-4bae-aaa8-1d9fb237fe59.png)
+![5](https://user-images.githubusercontent.com/55030527/161861242-f337a074-a604-483c-9312-29757c4a1da1.png)
+![6](https://user-images.githubusercontent.com/55030527/161861245-6624ceb2-2b2c-4fda-ba47-09cc5e108010.png)
+![7](https://user-images.githubusercontent.com/55030527/161861246-56ef9fdf-f42f-4cfa-9bbd-14bb052eb6db.png)
+![8](https://user-images.githubusercontent.com/55030527/161861247-e2a8061d-eaf8-4416-8782-30bffc12cce1.png)
+![9](https://user-images.githubusercontent.com/55030527/161861248-2f754c61-b690-4d32-a7f2-441125791679.png)
+![10](https://user-images.githubusercontent.com/55030527/161861249-8cc3c084-6c2b-4649-ba88-c769fe9204ce.png)
+![11](https://user-images.githubusercontent.com/55030527/161861251-1940c1da-039f-4588-82be-241ce59433f8.png)
+![12](https://user-images.githubusercontent.com/55030527/161861256-1e6683e5-6340-4308-a68f-5d945b547d7c.png)
+![13](https://user-images.githubusercontent.com/55030527/161861258-ce361913-ef9a-48c8-ac0c-c33cde932099.png)
+![14](https://user-images.githubusercontent.com/55030527/161861260-1e32c34e-75a3-4dbb-8bbd-d8b725a49e0c.png)
+![15](https://user-images.githubusercontent.com/55030527/161861261-acd9770a-fceb-41c8-b9d3-7d8e6b83ef07.png)
+![16](https://user-images.githubusercontent.com/55030527/161861265-39498a12-5ec5-4158-950f-a729cd213f88.png)
+![17](https://user-images.githubusercontent.com/55030527/161861266-679e8da2-2c5c-4648-9ff4-b74b6b0c4c04.png)
+![18](https://user-images.githubusercontent.com/55030527/161861268-4437b227-6eea-48b1-884b-32745932a96b.png)
+![19](https://user-images.githubusercontent.com/55030527/161861269-bb82faf8-8d25-4ac8-bc67-0dc653254118.png)
+![20](https://user-images.githubusercontent.com/55030527/161861271-045a7b4c-1455-45aa-aaf2-3b6e6852e527.png)
+![21](https://user-images.githubusercontent.com/55030527/161861272-b9d0c29b-5de4-4463-a506-4187bf31796e.png)
+![22](https://user-images.githubusercontent.com/55030527/161861274-4636c332-c975-4a3b-ad2f-a052c77a0be7.png)
+![23](https://user-images.githubusercontent.com/55030527/161861275-b49a2e4f-1f2b-4733-8eb7-fe2c9b89c97d.png)
+![24](https://user-images.githubusercontent.com/55030527/161861277-3c0402bc-6b38-425c-ae68-d3aba5432815.png)
+output under the `tests/_output` directory.
